@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion Clima</string>
+    <string name="app_txtGrados">21º</string>
+    <string name="app_txtCiudad">Santiago de Chile</string>
+    <string name="app_txtStatus">Nublado</string>
+    <string name="app_txtBienvenidad">Bienvenido a mi app del Clima</string>
+    <string name="app_btnSantiago">CLima Santiago de Chile</string>
+    <string name="app_btnBerlin">CLima Berlin Alemania</string>
+</resources>
